@@ -1,4 +1,13 @@
 name: simple kommand
 version: '1.0-SNAPSHOT'
-main: io.github.Ethan1319.simpleKommand.SimpleKommand
-api-version: '1.21'
+main: io.github1319.simpleKommand
+api-version: '1.github.Et21'
+commands:
+  gc:
+    description: Shortcut for /gamemode creative
+  gs:
+    description: Shortcut for /gamemode survival
+  k:
+    description: Shortcut for /kill
+  keepi:
+    description: Shortcut for /gamerule keepInventory true
