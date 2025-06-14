@@ -6,3 +6,4 @@
 - /gamemode creative = /gc
 - /gamemode servival = /gs
 - /keep inventory = /keepi
+-/kill (자신) = /k
